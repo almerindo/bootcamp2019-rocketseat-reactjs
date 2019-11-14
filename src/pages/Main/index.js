@@ -4,5 +4,5 @@ import { Title } from './styles';
 // import { Container } from './styles';
 
 export default function Repository() {
-  return <Title>Main</Title>;
+  return <Title>Hello World</Title>;
 }
